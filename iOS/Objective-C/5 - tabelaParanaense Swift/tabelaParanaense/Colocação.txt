@@ -1,0 +1,13 @@
+POS**Clube*PTS*V*E*D*SG
+1*coritiba.png*Coritiba*26*8*2*1*11
+2*jmalucelli.png*JMalucelli*23*7*2*2*8
+3*operario.png*Operário PR*20*6*2*3*7
+4*maringa.png*Maringá*20*6*2*3*4
+5*londrina.png*Londrina*18*5*3*3*6
+6*parana.png*Paraná*18*5*2*3*4
+7*fozdoiguacu.png*Foz do Iguaçu*17*5*5*4*0
+8*cascavel.png*FC Cascavel*14*3*2*3*-1
+9*atleticopr.png*Atlético PR*11*3*1*6*2
+10*riobranco.png*Rio Branco PR*10*3*1*7*-6
+11*nacional.png*Nacional PR*4*1*1*9*-17
+12*prudentopolis.png*Prudentópolis*3*0*3*8*-18

@@ -1,0 +1,145 @@
+Atlético PR
+Enderson Moreira*atleticopr.png*TEC*--
+Weverton        *atleticopr.png*GOL*01
+Eduardo         *atleticopr.png*LAD*02
+Gustavo         *atleticopr.png*ZAD*03
+Natanael        *atleticopr.png*ZAE*04
+Deivid          *atleticopr.png*LAE*05
+Hernani         *atleticopr.png*VOL*06
+Bady            *atleticopr.png*VOL*07
+Wallyson        *atleticopr.png*MEC*08
+Edigar Junior   *atleticopr.png*ATA*09
+Dellatorre      *atleticopr.png*ATA*10
+Cléo            *atleticopr.png*ATA*11|FC Cascavel
+Marquinhos Santos*cascavel.png*TEC*--
+Vaná            *cascavel.png*GOL*01
+Norberto        *cascavel.png*LAD*02
+Walisson        *cascavel.png*ZAD*03
+Welinton        *cascavel.png*ZAE*04
+Carlinhos       *cascavel.png*LAE*05
+João Paulo      *cascavel.png*VOL*06
+Helder          *cascavel.png*VOL*07
+Wallyson        *cascavel.png*MEC*08
+Negueba         *cascavel.png*ATA*09
+Keirrison       *cascavel.png*ATA*10
+Rafhael Lucas   *cascavel.png*ATA*11|Coritiba
+Marquinhos Santos*coritiba.png*TEC*--
+Vaná            *coritiba.png*GOL*01
+Norberto        *coritiba.png*LAD*02
+Walisson        *coritiba.png*ZAD*03
+Welinton        *coritiba.png*ZAE*04
+Carlinhos       *coritiba.png*LAE*05
+João Paulo      *coritiba.png*VOL*06
+Helder          *coritiba.png*VOL*07
+Wallyson        *coritiba.png*MEC*08
+Negueba         *coritiba.png*ATA*09
+Keirrison       *coritiba.png*ATA*10
+Rafhael Lucas   *coritiba.png*ATA*11|Foz do Iguaçu==
+Edson Borges    *fozdoiguacu.png*TEC*--
+Edson Bastos    *fozdoiguacu.png*GOL*01
+Alex            *fozdoiguacu.png*LAD*02
+Leandro Silva   *fozdoiguacu.png*ZAD*03
+Alex            *fozdoiguacu.png*ZAE*04
+Rafinha         *fozdoiguacu.png*LAE*05
+Maranhão        *fozdoiguacu.png*VOL*06
+Cícero          *fozdoiguacu.png*VOL*07
+Geovani         *fozdoiguacu.png*MEC*08
+Léo             *fozdoiguacu.png*ATA*09
+Quirino         *fozdoiguacu.png*ATA*10
+Ícaro           *fozdoiguacu.png*ATA*11|JMalucelli
+Marquinhos Santos*jmalucelli.png*TEC*--
+Vaná            *jmalucelli.png*GOL*01
+Norberto        *jmalucelli.png*LAD*02
+Walisson        *jmalucelli.png*ZAD*03
+Welinton        *jmalucelli.png*ZAE*04
+Carlinhos       *jmalucelli.png*LAE*05
+João Paulo      *jmalucelli.png*VOL*06
+Helder          *jmalucelli.png*VOL*07
+Wallyson        *jmalucelli.png*MEC*08
+Negueba         *jmalucelli.png*ATA*09
+Keirrison       *jmalucelli.png*ATA*10
+Rafhael Lucas   *jmalucelli.png*ATA*11|Londrina
+Claudio Tencati *londrina.png*TEC*--
+Vitor           *londrina.png*GOL*01
+Jhon            *londrina.png*LAD*02
+Dirceu          *londrina.png*ZAD*03
+Silvio          *londrina.png*ZAE*04
+Allan Vieira    *londrina.png*LAE*05
+Germano         *londrina.png*VOL*06
+Bidia           *londrina.png*VOL*07
+Anderson        *londrina.png*MEC*08
+Rone Dias       *londrina.png*ATA*09
+Arthur          *londrina.png*ATA*10
+Wéverton        *londrina.png*ATA*11|Maringá
+Marquinhos Santos*maringa.png*TEC*--
+Vaná            *maringa.png*GOL*01
+Norberto        *maringa.png*LAD*02
+Walisson        *maringa.png*ZAD*03
+Welinton        *maringa.png*ZAE*04
+Carlinhos       *maringa.png*LAE*05
+João Paulo      *maringa.png*VOL*06
+Helder          *maringa.png*VOL*07
+Wallyson        *maringa.png*MEC*08
+Negueba         *maringa.png*ATA*09
+Keirrison       *maringa.png*ATA*10
+Rafhael Lucas   *maringa.png*ATA*11|Nacional PR
+Marquinhos Santos*nacional.png*TEC*--
+Vaná            *nacional.png*GOL*01
+Norberto        *nacional.png*LAD*02
+Walisson        *nacional.png*ZAD*03
+Welinton        *nacional.png*ZAE*04
+Carlinhos       *nacional.png*LAE*05
+João Paulo      *nacional.png*VOL*06
+Helder          *nacional.png*VOL*07
+Wallyson        *nacional.png*MEC*08
+Negueba         *nacional.png*ATA*09
+Keirrison       *nacional.png*ATA*10
+Rafhael Lucas   *nacional.png*ATA*11|Operário PR
+Itamar Schulle  *operario.png*TEC*--
+Jhonatan        *operario.png*GOL*01
+Danilo Baia     *operario.png*LAD*02
+Douglas Mendes  *operario.png*ZAD*03
+Juan Sosa       *operario.png*ZAE*04
+Peixoto         *operario.png*LAE*05
+Chicão          *operario.png*VOL*06
+Lucas           *operario.png*VOL*07
+Pedrinho        *operario.png*MEC*08
+Ruy             *operario.png*ATA*09
+Juba            *operario.png*ATA*10
+Joélson         *operario.png*ATA*11|Paraná
+Marquinhos Santos*parana.png*TEC*--
+Vaná            *parana.png*GOL*01
+Norberto        *parana.png*LAD*02
+Walisson        *parana.png*ZAD*03
+Welinton        *parana.png*ZAE*04
+Carlinhos       *parana.png*LAE*05
+João Paulo      *parana.png*VOL*06
+Helder          *parana.png*VOL*07
+Wallyson        *parana.png*MEC*08
+Negueba         *parana.png*ATA*09
+Keirrison       *parana.png*ATA*10
+Rafhael Lucas   *parana.png*ATA*11|Prudentópolis
+Serjão          *prudentopolis.png*TEC*--
+Márcio Máximo   *prudentopolis.png*GOL*01
+Doni            *prudentopolis.png*LAD*02
+Lucas           *prudentopolis.png*ZAD*03
+Lugano          *prudentopolis.png*ZAE*04
+Miranda         *prudentopolis.png*LAE*05
+Biro-Biro       *prudentopolis.png*VOL*06
+Casimiro        *prudentopolis.png*VOL*07
+Diogo           *prudentopolis.png*MEC*08
+Wellingthon     *prudentopolis.png*ATA*09
+André           *prudentopolis.png*ATA*10
+Marcelinho      *prudentopolis.png*ATA*11|Rio Branco PR
+Edson Neguinho  *riobranco.png*TEC*--
+Carlos Luna     *riobranco.png*GOL*01
+Jean            *riobranco.png*LAD*02
+Darlan          *riobranco.png*ZAD*03
+Caio            *riobranco.png*ZAE*04
+J.Goiano        *riobranco.png*LAE*05
+Marco Túlio     *riobranco.png*VOL*06
+Alex            *riobranco.png*VOL*07
+Oberdan         *riobranco.png*MEC*08
+R.Guerreiro     *riobranco.png*ATA*09
+Marquinhos      *riobranco.png*ATA*10
+B.Andrade       *riobranco.png*ATA*11
