@@ -1,0 +1,536 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DF32326E1AAE4C8A006F8000 /* login.png in Resources */ = {isa = PBXBuildFile; fileRef = DF32326D1AAE4C8A006F8000 /* login.png */; };
+		DF3232701AAE4CF3006F8000 /* topBar.png in Resources */ = {isa = PBXBuildFile; fileRef = DF32326F1AAE4CF3006F8000 /* topBar.png */; };
+		DF499BEA1AA7CDAA009CE025 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DF499BE91AA7CDAA009CE025 /* main.m */; };
+		DF499BED1AA7CDAA009CE025 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DF499BEC1AA7CDAA009CE025 /* AppDelegate.m */; };
+		DF499BF01AA7CDAA009CE025 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DF499BEF1AA7CDAA009CE025 /* ViewController.m */; };
+		DF499BF31AA7CDAA009CE025 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF499BF11AA7CDAA009CE025 /* Main.storyboard */; };
+		DF499BF51AA7CDAA009CE025 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF499BF41AA7CDAA009CE025 /* Images.xcassets */; };
+		DF499BF81AA7CDAA009CE025 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = DF499BF61AA7CDAA009CE025 /* LaunchScreen.xib */; };
+		DF499C041AA7CDAA009CE025 /* True_Trainer___The_Right_Way_To_WorkoutTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DF499C031AA7CDAA009CE025 /* True_Trainer___The_Right_Way_To_WorkoutTests.m */; };
+		DFF626711AAB6EEA006622BE /* tabBarIconMe.png in Resources */ = {isa = PBXBuildFile; fileRef = DFF626701AAB6EEA006622BE /* tabBarIconMe.png */; };
+		DFF626761AAB710D006622BE /* tabBarIconStart.png in Resources */ = {isa = PBXBuildFile; fileRef = DFF626721AAB710D006622BE /* tabBarIconStart.png */; };
+		DFF626771AAB710D006622BE /* tabBarIconSocial.png in Resources */ = {isa = PBXBuildFile; fileRef = DFF626731AAB710D006622BE /* tabBarIconSocial.png */; };
+		DFF626781AAB710D006622BE /* tabBarIconSettings.png in Resources */ = {isa = PBXBuildFile; fileRef = DFF626741AAB710D006622BE /* tabBarIconSettings.png */; };
+		DFF6267B1AAB7157006622BE /* tabBarIconWorkouts.png in Resources */ = {isa = PBXBuildFile; fileRef = DFF6267A1AAB7157006622BE /* tabBarIconWorkouts.png */; };
+		DFF6267D1AAB80F4006622BE /* bg.png in Resources */ = {isa = PBXBuildFile; fileRef = DFF6267C1AAB80F4006622BE /* bg.png */; };
+		DFF6267F1AAB8268006622BE /* 2. home sem fundo.png in Resources */ = {isa = PBXBuildFile; fileRef = DFF6267E1AAB8268006622BE /* 2. home sem fundo.png */; };
+		DFF626811AAE1AA2006622BE /* splash.png in Resources */ = {isa = PBXBuildFile; fileRef = DFF626801AAE1AA2006622BE /* splash.png */; };
+		DFF626871AAE1C68006622BE /* eu.png in Resources */ = {isa = PBXBuildFile; fileRef = DFF626861AAE1C68006622BE /* eu.png */; };
+		DFF626891AAE2027006622BE /* workouts.png in Resources */ = {isa = PBXBuildFile; fileRef = DFF626881AAE2027006622BE /* workouts.png */; };
+		DFF6268B1AAE20B5006622BE /* start.png in Resources */ = {isa = PBXBuildFile; fileRef = DFF6268A1AAE20B5006622BE /* start.png */; };
+		DFF6268D1AAE2118006622BE /* social.png in Resources */ = {isa = PBXBuildFile; fileRef = DFF6268C1AAE2118006622BE /* social.png */; };
+		DFF626911AAE2184006622BE /* settings.png in Resources */ = {isa = PBXBuildFile; fileRef = DFF626901AAE2184006622BE /* settings.png */; };
+		DFF626961AAE33B2006622BE /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DFF626951AAE33B2006622BE /* TableViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		DF499BFE1AA7CDAA009CE025 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DF499BDC1AA7CDAA009CE025 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DF499BE31AA7CDAA009CE025;
+			remoteInfo = "True Trainer - The Right Way To Workout";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		DF32326D1AAE4C8A006F8000 /* login.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = login.png; sourceTree = "<group>"; };
+		DF32326F1AAE4CF3006F8000 /* topBar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = topBar.png; sourceTree = "<group>"; };
+		DF499BE41AA7CDAA009CE025 /* True Trainer - The Right Way To Workout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "True Trainer - The Right Way To Workout.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DF499BE81AA7CDAA009CE025 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DF499BE91AA7CDAA009CE025 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DF499BEB1AA7CDAA009CE025 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		DF499BEC1AA7CDAA009CE025 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		DF499BEE1AA7CDAA009CE025 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		DF499BEF1AA7CDAA009CE025 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		DF499BF21AA7CDAA009CE025 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DF499BF41AA7CDAA009CE025 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		DF499BF71AA7CDAA009CE025 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		DF499BFD1AA7CDAA009CE025 /* True Trainer - The Right Way To WorkoutTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "True Trainer - The Right Way To WorkoutTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DF499C021AA7CDAA009CE025 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DF499C031AA7CDAA009CE025 /* True_Trainer___The_Right_Way_To_WorkoutTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "True_Trainer___The_Right_Way_To_WorkoutTests.m"; sourceTree = "<group>"; };
+		DFF626701AAB6EEA006622BE /* tabBarIconMe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tabBarIconMe.png; sourceTree = "<group>"; };
+		DFF626721AAB710D006622BE /* tabBarIconStart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tabBarIconStart.png; sourceTree = "<group>"; };
+		DFF626731AAB710D006622BE /* tabBarIconSocial.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tabBarIconSocial.png; sourceTree = "<group>"; };
+		DFF626741AAB710D006622BE /* tabBarIconSettings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tabBarIconSettings.png; sourceTree = "<group>"; };
+		DFF6267A1AAB7157006622BE /* tabBarIconWorkouts.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tabBarIconWorkouts.png; sourceTree = "<group>"; };
+		DFF6267C1AAB80F4006622BE /* bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg.png; sourceTree = "<group>"; };
+		DFF6267E1AAB8268006622BE /* 2. home sem fundo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2. home sem fundo.png"; sourceTree = "<group>"; };
+		DFF626801AAE1AA2006622BE /* splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = splash.png; sourceTree = "<group>"; };
+		DFF626861AAE1C68006622BE /* eu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = eu.png; sourceTree = "<group>"; };
+		DFF626881AAE2027006622BE /* workouts.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = workouts.png; sourceTree = "<group>"; };
+		DFF6268A1AAE20B5006622BE /* start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = start.png; sourceTree = "<group>"; };
+		DFF6268C1AAE2118006622BE /* social.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social.png; sourceTree = "<group>"; };
+		DFF626901AAE2184006622BE /* settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = settings.png; sourceTree = "<group>"; };
+		DFF626941AAE33B2006622BE /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TableViewController.h; path = ../TableViewController.h; sourceTree = "<group>"; };
+		DFF626951AAE33B2006622BE /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TableViewController.m; path = ../TableViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DF499BE11AA7CDAA009CE025 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DF499BFA1AA7CDAA009CE025 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DF499BDB1AA7CDAA009CE025 = {
+			isa = PBXGroup;
+			children = (
+				DF499BE61AA7CDAA009CE025 /* True Trainer - The Right Way To Workout */,
+				DF499C001AA7CDAA009CE025 /* True Trainer - The Right Way To WorkoutTests */,
+				DF499BE51AA7CDAA009CE025 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DF499BE51AA7CDAA009CE025 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DF499BE41AA7CDAA009CE025 /* True Trainer - The Right Way To Workout.app */,
+				DF499BFD1AA7CDAA009CE025 /* True Trainer - The Right Way To WorkoutTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DF499BE61AA7CDAA009CE025 /* True Trainer - The Right Way To Workout */ = {
+			isa = PBXGroup;
+			children = (
+				DF499BEB1AA7CDAA009CE025 /* AppDelegate.h */,
+				DF499BEC1AA7CDAA009CE025 /* AppDelegate.m */,
+				DF499BEE1AA7CDAA009CE025 /* ViewController.h */,
+				DF499BEF1AA7CDAA009CE025 /* ViewController.m */,
+				DFF626941AAE33B2006622BE /* TableViewController.h */,
+				DFF626951AAE33B2006622BE /* TableViewController.m */,
+				DF499BF41AA7CDAA009CE025 /* Images.xcassets */,
+				DF499BF11AA7CDAA009CE025 /* Main.storyboard */,
+				DF499BF61AA7CDAA009CE025 /* LaunchScreen.xib */,
+				DF499C0F1AA91631009CE025 /* Images */,
+				DF499BE71AA7CDAA009CE025 /* Supporting Files */,
+			);
+			path = "True Trainer - The Right Way To Workout";
+			sourceTree = "<group>";
+		};
+		DF499BE71AA7CDAA009CE025 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				DF499BE81AA7CDAA009CE025 /* Info.plist */,
+				DF499BE91AA7CDAA009CE025 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		DF499C001AA7CDAA009CE025 /* True Trainer - The Right Way To WorkoutTests */ = {
+			isa = PBXGroup;
+			children = (
+				DF499C031AA7CDAA009CE025 /* True_Trainer___The_Right_Way_To_WorkoutTests.m */,
+				DF499C011AA7CDAA009CE025 /* Supporting Files */,
+			);
+			path = "True Trainer - The Right Way To WorkoutTests";
+			sourceTree = "<group>";
+		};
+		DF499C011AA7CDAA009CE025 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				DF499C021AA7CDAA009CE025 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		DF499C0F1AA91631009CE025 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				DF499C2A1AAB63B6009CE025 /* Layout */,
+				DF499C211AAA7683009CE025 /* Top Bar */,
+				DF499C1C1AA93212009CE025 /* Tab Bar */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		DF499C1C1AA93212009CE025 /* Tab Bar */ = {
+			isa = PBXGroup;
+			children = (
+				DFF626701AAB6EEA006622BE /* tabBarIconMe.png */,
+				DFF626721AAB710D006622BE /* tabBarIconStart.png */,
+				DFF626731AAB710D006622BE /* tabBarIconSocial.png */,
+				DFF6267A1AAB7157006622BE /* tabBarIconWorkouts.png */,
+				DFF626741AAB710D006622BE /* tabBarIconSettings.png */,
+			);
+			name = "Tab Bar";
+			sourceTree = "<group>";
+		};
+		DF499C211AAA7683009CE025 /* Top Bar */ = {
+			isa = PBXGroup;
+			children = (
+				DF32326F1AAE4CF3006F8000 /* topBar.png */,
+			);
+			name = "Top Bar";
+			sourceTree = "<group>";
+		};
+		DF499C2A1AAB63B6009CE025 /* Layout */ = {
+			isa = PBXGroup;
+			children = (
+				DFF626801AAE1AA2006622BE /* splash.png */,
+				DFF6267C1AAB80F4006622BE /* bg.png */,
+				DF32326D1AAE4C8A006F8000 /* login.png */,
+				DFF6267E1AAB8268006622BE /* 2. home sem fundo.png */,
+				DFF626861AAE1C68006622BE /* eu.png */,
+				DFF626881AAE2027006622BE /* workouts.png */,
+				DFF6268A1AAE20B5006622BE /* start.png */,
+				DFF6268C1AAE2118006622BE /* social.png */,
+				DFF626901AAE2184006622BE /* settings.png */,
+			);
+			name = Layout;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DF499BE31AA7CDAA009CE025 /* True Trainer - The Right Way To Workout */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DF499C071AA7CDAA009CE025 /* Build configuration list for PBXNativeTarget "True Trainer - The Right Way To Workout" */;
+			buildPhases = (
+				DF499BE01AA7CDAA009CE025 /* Sources */,
+				DF499BE11AA7CDAA009CE025 /* Frameworks */,
+				DF499BE21AA7CDAA009CE025 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "True Trainer - The Right Way To Workout";
+			productName = "True Trainer - The Right Way To Workout";
+			productReference = DF499BE41AA7CDAA009CE025 /* True Trainer - The Right Way To Workout.app */;
+			productType = "com.apple.product-type.application";
+		};
+		DF499BFC1AA7CDAA009CE025 /* True Trainer - The Right Way To WorkoutTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DF499C0A1AA7CDAA009CE025 /* Build configuration list for PBXNativeTarget "True Trainer - The Right Way To WorkoutTests" */;
+			buildPhases = (
+				DF499BF91AA7CDAA009CE025 /* Sources */,
+				DF499BFA1AA7CDAA009CE025 /* Frameworks */,
+				DF499BFB1AA7CDAA009CE025 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DF499BFF1AA7CDAA009CE025 /* PBXTargetDependency */,
+			);
+			name = "True Trainer - The Right Way To WorkoutTests";
+			productName = "True Trainer - The Right Way To WorkoutTests";
+			productReference = DF499BFD1AA7CDAA009CE025 /* True Trainer - The Right Way To WorkoutTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DF499BDC1AA7CDAA009CE025 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = "True Trainer";
+				TargetAttributes = {
+					DF499BE31AA7CDAA009CE025 = {
+						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = 3963AZ5GF9;
+					};
+					DF499BFC1AA7CDAA009CE025 = {
+						CreatedOnToolsVersion = 6.1.1;
+						TestTargetID = DF499BE31AA7CDAA009CE025;
+					};
+				};
+			};
+			buildConfigurationList = DF499BDF1AA7CDAA009CE025 /* Build configuration list for PBXProject "True Trainer - The Right Way To Workout" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DF499BDB1AA7CDAA009CE025;
+			productRefGroup = DF499BE51AA7CDAA009CE025 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DF499BE31AA7CDAA009CE025 /* True Trainer - The Right Way To Workout */,
+				DF499BFC1AA7CDAA009CE025 /* True Trainer - The Right Way To WorkoutTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DF499BE21AA7CDAA009CE025 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DFF626871AAE1C68006622BE /* eu.png in Resources */,
+				DFF6268B1AAE20B5006622BE /* start.png in Resources */,
+				DFF6268D1AAE2118006622BE /* social.png in Resources */,
+				DFF626761AAB710D006622BE /* tabBarIconStart.png in Resources */,
+				DFF6267F1AAB8268006622BE /* 2. home sem fundo.png in Resources */,
+				DFF626781AAB710D006622BE /* tabBarIconSettings.png in Resources */,
+				DFF626911AAE2184006622BE /* settings.png in Resources */,
+				DFF6267D1AAB80F4006622BE /* bg.png in Resources */,
+				DFF626711AAB6EEA006622BE /* tabBarIconMe.png in Resources */,
+				DF499BF31AA7CDAA009CE025 /* Main.storyboard in Resources */,
+				DFF626811AAE1AA2006622BE /* splash.png in Resources */,
+				DF3232701AAE4CF3006F8000 /* topBar.png in Resources */,
+				DF499BF81AA7CDAA009CE025 /* LaunchScreen.xib in Resources */,
+				DF32326E1AAE4C8A006F8000 /* login.png in Resources */,
+				DFF626771AAB710D006622BE /* tabBarIconSocial.png in Resources */,
+				DFF6267B1AAB7157006622BE /* tabBarIconWorkouts.png in Resources */,
+				DFF626891AAE2027006622BE /* workouts.png in Resources */,
+				DF499BF51AA7CDAA009CE025 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DF499BFB1AA7CDAA009CE025 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DF499BE01AA7CDAA009CE025 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DF499BF01AA7CDAA009CE025 /* ViewController.m in Sources */,
+				DF499BED1AA7CDAA009CE025 /* AppDelegate.m in Sources */,
+				DF499BEA1AA7CDAA009CE025 /* main.m in Sources */,
+				DFF626961AAE33B2006622BE /* TableViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DF499BF91AA7CDAA009CE025 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DF499C041AA7CDAA009CE025 /* True_Trainer___The_Right_Way_To_WorkoutTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		DF499BFF1AA7CDAA009CE025 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DF499BE31AA7CDAA009CE025 /* True Trainer - The Right Way To Workout */;
+			targetProxy = DF499BFE1AA7CDAA009CE025 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		DF499BF11AA7CDAA009CE025 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DF499BF21AA7CDAA009CE025 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		DF499BF61AA7CDAA009CE025 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DF499BF71AA7CDAA009CE025 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		DF499C051AA7CDAA009CE025 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		DF499C061AA7CDAA009CE025 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DF499C081AA7CDAA009CE025 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "True Trainer - The Right Way To Workout/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+			};
+			name = Debug;
+		};
+		DF499C091AA7CDAA009CE025 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "True Trainer - The Right Way To Workout/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+			};
+			name = Release;
+		};
+		DF499C0B1AA7CDAA009CE025 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "True Trainer - The Right Way To WorkoutTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/True Trainer - The Right Way To Workout.app/True Trainer - The Right Way To Workout";
+			};
+			name = Debug;
+		};
+		DF499C0C1AA7CDAA009CE025 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "True Trainer - The Right Way To WorkoutTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/True Trainer - The Right Way To Workout.app/True Trainer - The Right Way To Workout";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DF499BDF1AA7CDAA009CE025 /* Build configuration list for PBXProject "True Trainer - The Right Way To Workout" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DF499C051AA7CDAA009CE025 /* Debug */,
+				DF499C061AA7CDAA009CE025 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DF499C071AA7CDAA009CE025 /* Build configuration list for PBXNativeTarget "True Trainer - The Right Way To Workout" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DF499C081AA7CDAA009CE025 /* Debug */,
+				DF499C091AA7CDAA009CE025 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DF499C0A1AA7CDAA009CE025 /* Build configuration list for PBXNativeTarget "True Trainer - The Right Way To WorkoutTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DF499C0B1AA7CDAA009CE025 /* Debug */,
+				DF499C0C1AA7CDAA009CE025 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DF499BDC1AA7CDAA009CE025 /* Project object */;
+}
