@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="8118.20" systemVersion="15A204h" minimumToolsVersion="Xcode 7.0">
+    <entity name="EscalacaoItem" representedClassName="tabelaParanaense.EscalacaoItem" syncable="YES"/>
+    <entity name="TabelaItem" representedClassName="tabelaParanaense.TabelaItem" syncable="YES">
+        <attribute name="derrotas" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="empates" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imagem" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nome" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pontos" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="posicao" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="saldo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="vitorias" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="EscalacaoItem" positionX="151" positionY="9" width="128" height="45"/>
+        <element name="TabelaItem" positionX="-63" positionY="9" width="128" height="165"/>
+    </elements>
+</model>

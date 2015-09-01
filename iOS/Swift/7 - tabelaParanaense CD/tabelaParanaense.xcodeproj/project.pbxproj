@@ -1,0 +1,534 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DF11CE941B0147C200266961 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF11CE931B0147C200266961 /* Images.xcassets */; };
+		DF2E0F9E1B475F1500C0BDA8 /* tabelaParanaense.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DF2E0F9C1B475F1500C0BDA8 /* tabelaParanaense.xcdatamodeld */; };
+		DF3177281AFF47B800BF564A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF3177271AFF47B800BF564A /* AppDelegate.swift */; };
+		DF31772D1AFF47B800BF564A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF31772B1AFF47B800BF564A /* Main.storyboard */; };
+		DF31773E1AFF47B800BF564A /* tabelaParanaenseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF31773D1AFF47B800BF564A /* tabelaParanaenseTests.swift */; };
+		DF31774B1AFF4A0F00BF564A /* Escalação.txt in Resources */ = {isa = PBXBuildFile; fileRef = DF31774A1AFF4A0F00BF564A /* Escalação.txt */; };
+		DF31774F1AFF4A3C00BF564A /* Colocação.txt in Resources */ = {isa = PBXBuildFile; fileRef = DF31774E1AFF4A3C00BF564A /* Colocação.txt */; };
+		DF3177531AFF544300BF564A /* tabelaTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF3177521AFF544300BF564A /* tabelaTableViewController.swift */; };
+		DF3177551AFF5BE500BF564A /* tabelaTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF3177541AFF5BE500BF564A /* tabelaTableViewCell.swift */; };
+		DF3177621AFF69BC00BF564A /* atleticopr.png in Resources */ = {isa = PBXBuildFile; fileRef = DF3177561AFF69BC00BF564A /* atleticopr.png */; };
+		DF3177631AFF69BC00BF564A /* cascavel.png in Resources */ = {isa = PBXBuildFile; fileRef = DF3177571AFF69BC00BF564A /* cascavel.png */; };
+		DF3177641AFF69BC00BF564A /* coritiba.png in Resources */ = {isa = PBXBuildFile; fileRef = DF3177581AFF69BC00BF564A /* coritiba.png */; };
+		DF3177651AFF69BC00BF564A /* fozdoiguacu.png in Resources */ = {isa = PBXBuildFile; fileRef = DF3177591AFF69BC00BF564A /* fozdoiguacu.png */; };
+		DF3177661AFF69BC00BF564A /* jmalucelli.png in Resources */ = {isa = PBXBuildFile; fileRef = DF31775A1AFF69BC00BF564A /* jmalucelli.png */; };
+		DF3177671AFF69BC00BF564A /* londrina.png in Resources */ = {isa = PBXBuildFile; fileRef = DF31775B1AFF69BC00BF564A /* londrina.png */; };
+		DF3177681AFF69BC00BF564A /* maringa.png in Resources */ = {isa = PBXBuildFile; fileRef = DF31775C1AFF69BC00BF564A /* maringa.png */; };
+		DF3177691AFF69BC00BF564A /* nacional.png in Resources */ = {isa = PBXBuildFile; fileRef = DF31775D1AFF69BC00BF564A /* nacional.png */; };
+		DF31776A1AFF69BC00BF564A /* operario.png in Resources */ = {isa = PBXBuildFile; fileRef = DF31775E1AFF69BC00BF564A /* operario.png */; };
+		DF31776B1AFF69BC00BF564A /* parana.png in Resources */ = {isa = PBXBuildFile; fileRef = DF31775F1AFF69BC00BF564A /* parana.png */; };
+		DF31776C1AFF69BC00BF564A /* prudentopolis.png in Resources */ = {isa = PBXBuildFile; fileRef = DF3177601AFF69BC00BF564A /* prudentopolis.png */; };
+		DF31776D1AFF69BC00BF564A /* riobranco.png in Resources */ = {isa = PBXBuildFile; fileRef = DF3177611AFF69BC00BF564A /* riobranco.png */; };
+		DF3177701AFF6EB200BF564A /* escalacaoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF31776F1AFF6EB200BF564A /* escalacaoTableViewCell.swift */; };
+		DF3177721AFF6EC500BF564A /* escalacaoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF3177711AFF6EC500BF564A /* escalacaoTableViewController.swift */; };
+		DF8971A11B4AC8E600652FC7 /* tabelaItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8971A01B4AC8E500652FC7 /* tabelaItem.swift */; };
+		DFF0E5B51B012A2800C05AC6 /* Escalação Completa.txt in Resources */ = {isa = PBXBuildFile; fileRef = DFF0E5B41B012A2800C05AC6 /* Escalação Completa.txt */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		DF3177381AFF47B800BF564A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DF31771A1AFF47B800BF564A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DF3177211AFF47B800BF564A;
+			remoteInfo = tabelaParanaense;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		DF11CE931B0147C200266961 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		DF2E0F9D1B475F1500C0BDA8 /* tabelaParanaense.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = tabelaParanaense.xcdatamodel; sourceTree = "<group>"; };
+		DF3177221AFF47B800BF564A /* tabelaParanaense.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tabelaParanaense.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DF3177261AFF47B800BF564A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DF3177271AFF47B800BF564A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		DF31772C1AFF47B800BF564A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DF3177371AFF47B800BF564A /* tabelaParanaenseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tabelaParanaenseTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DF31773C1AFF47B800BF564A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DF31773D1AFF47B800BF564A /* tabelaParanaenseTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tabelaParanaenseTests.swift; sourceTree = "<group>"; };
+		DF31774A1AFF4A0F00BF564A /* Escalação.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Escalação.txt"; sourceTree = "<group>"; };
+		DF31774E1AFF4A3C00BF564A /* Colocação.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Colocação.txt"; sourceTree = "<group>"; };
+		DF3177521AFF544300BF564A /* tabelaTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tabelaTableViewController.swift; sourceTree = "<group>"; };
+		DF3177541AFF5BE500BF564A /* tabelaTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tabelaTableViewCell.swift; sourceTree = "<group>"; };
+		DF3177561AFF69BC00BF564A /* atleticopr.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = atleticopr.png; sourceTree = "<group>"; };
+		DF3177571AFF69BC00BF564A /* cascavel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cascavel.png; sourceTree = "<group>"; };
+		DF3177581AFF69BC00BF564A /* coritiba.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = coritiba.png; sourceTree = "<group>"; };
+		DF3177591AFF69BC00BF564A /* fozdoiguacu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fozdoiguacu.png; sourceTree = "<group>"; };
+		DF31775A1AFF69BC00BF564A /* jmalucelli.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jmalucelli.png; sourceTree = "<group>"; };
+		DF31775B1AFF69BC00BF564A /* londrina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = londrina.png; sourceTree = "<group>"; };
+		DF31775C1AFF69BC00BF564A /* maringa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = maringa.png; sourceTree = "<group>"; };
+		DF31775D1AFF69BC00BF564A /* nacional.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nacional.png; sourceTree = "<group>"; };
+		DF31775E1AFF69BC00BF564A /* operario.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = operario.png; sourceTree = "<group>"; };
+		DF31775F1AFF69BC00BF564A /* parana.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = parana.png; sourceTree = "<group>"; };
+		DF3177601AFF69BC00BF564A /* prudentopolis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = prudentopolis.png; sourceTree = "<group>"; };
+		DF3177611AFF69BC00BF564A /* riobranco.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = riobranco.png; sourceTree = "<group>"; };
+		DF31776F1AFF6EB200BF564A /* escalacaoTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = escalacaoTableViewCell.swift; sourceTree = "<group>"; };
+		DF3177711AFF6EC500BF564A /* escalacaoTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = escalacaoTableViewController.swift; sourceTree = "<group>"; };
+		DF8971A01B4AC8E500652FC7 /* tabelaItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tabelaItem.swift; sourceTree = "<group>"; };
+		DFF0E5B41B012A2800C05AC6 /* Escalação Completa.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Escalação Completa.txt"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DF31771F1AFF47B800BF564A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DF3177341AFF47B800BF564A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DF3177191AFF47B800BF564A = {
+			isa = PBXGroup;
+			children = (
+				DF3177241AFF47B800BF564A /* tabelaParanaense */,
+				DF31773A1AFF47B800BF564A /* tabelaParanaenseTests */,
+				DF3177231AFF47B800BF564A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DF3177231AFF47B800BF564A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DF3177221AFF47B800BF564A /* tabelaParanaense.app */,
+				DF3177371AFF47B800BF564A /* tabelaParanaenseTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DF3177241AFF47B800BF564A /* tabelaParanaense */ = {
+			isa = PBXGroup;
+			children = (
+				DF3177471AFF49D300BF564A /* Assets */,
+				DF3177271AFF47B800BF564A /* AppDelegate.swift */,
+				DF2E0F9C1B475F1500C0BDA8 /* tabelaParanaense.xcdatamodeld */,
+				DF8971A01B4AC8E500652FC7 /* tabelaItem.swift */,
+				DF31772B1AFF47B800BF564A /* Main.storyboard */,
+				DF3177521AFF544300BF564A /* tabelaTableViewController.swift */,
+				DF3177541AFF5BE500BF564A /* tabelaTableViewCell.swift */,
+				DF3177711AFF6EC500BF564A /* escalacaoTableViewController.swift */,
+				DF31776F1AFF6EB200BF564A /* escalacaoTableViewCell.swift */,
+				DF3177251AFF47B800BF564A /* Supporting Files */,
+			);
+			path = tabelaParanaense;
+			sourceTree = "<group>";
+		};
+		DF3177251AFF47B800BF564A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				DF3177261AFF47B800BF564A /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		DF31773A1AFF47B800BF564A /* tabelaParanaenseTests */ = {
+			isa = PBXGroup;
+			children = (
+				DF31773D1AFF47B800BF564A /* tabelaParanaenseTests.swift */,
+				DF31773B1AFF47B800BF564A /* Supporting Files */,
+			);
+			path = tabelaParanaenseTests;
+			sourceTree = "<group>";
+		};
+		DF31773B1AFF47B800BF564A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				DF31773C1AFF47B800BF564A /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		DF3177471AFF49D300BF564A /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				DF31776E1AFF69C400BF564A /* Images */,
+				DF31774E1AFF4A3C00BF564A /* Colocação.txt */,
+				DF31774A1AFF4A0F00BF564A /* Escalação.txt */,
+				DFF0E5B41B012A2800C05AC6 /* Escalação Completa.txt */,
+			);
+			name = Assets;
+			sourceTree = "<group>";
+		};
+		DF31776E1AFF69C400BF564A /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				DF3177561AFF69BC00BF564A /* atleticopr.png */,
+				DF3177571AFF69BC00BF564A /* cascavel.png */,
+				DF3177581AFF69BC00BF564A /* coritiba.png */,
+				DF3177591AFF69BC00BF564A /* fozdoiguacu.png */,
+				DF31775A1AFF69BC00BF564A /* jmalucelli.png */,
+				DF31775B1AFF69BC00BF564A /* londrina.png */,
+				DF31775C1AFF69BC00BF564A /* maringa.png */,
+				DF31775D1AFF69BC00BF564A /* nacional.png */,
+				DF31775E1AFF69BC00BF564A /* operario.png */,
+				DF31775F1AFF69BC00BF564A /* parana.png */,
+				DF3177601AFF69BC00BF564A /* prudentopolis.png */,
+				DF3177611AFF69BC00BF564A /* riobranco.png */,
+				DF11CE931B0147C200266961 /* Images.xcassets */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DF3177211AFF47B800BF564A /* tabelaParanaense */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DF3177411AFF47B800BF564A /* Build configuration list for PBXNativeTarget "tabelaParanaense" */;
+			buildPhases = (
+				DF31771E1AFF47B800BF564A /* Sources */,
+				DF31771F1AFF47B800BF564A /* Frameworks */,
+				DF3177201AFF47B800BF564A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = tabelaParanaense;
+			productName = tabelaParanaense;
+			productReference = DF3177221AFF47B800BF564A /* tabelaParanaense.app */;
+			productType = "com.apple.product-type.application";
+		};
+		DF3177361AFF47B800BF564A /* tabelaParanaenseTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DF3177441AFF47B800BF564A /* Build configuration list for PBXNativeTarget "tabelaParanaenseTests" */;
+			buildPhases = (
+				DF3177331AFF47B800BF564A /* Sources */,
+				DF3177341AFF47B800BF564A /* Frameworks */,
+				DF3177351AFF47B800BF564A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DF3177391AFF47B800BF564A /* PBXTargetDependency */,
+			);
+			name = tabelaParanaenseTests;
+			productName = tabelaParanaenseTests;
+			productReference = DF3177371AFF47B800BF564A /* tabelaParanaenseTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DF31771A1AFF47B800BF564A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0700;
+				LastUpgradeCheck = 0700;
+				ORGANIZATIONNAME = "Fernando Cani";
+				TargetAttributes = {
+					DF3177211AFF47B800BF564A = {
+						CreatedOnToolsVersion = 6.3.1;
+					};
+					DF3177361AFF47B800BF564A = {
+						CreatedOnToolsVersion = 6.3.1;
+						TestTargetID = DF3177211AFF47B800BF564A;
+					};
+				};
+			};
+			buildConfigurationList = DF31771D1AFF47B800BF564A /* Build configuration list for PBXProject "tabelaParanaense" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DF3177191AFF47B800BF564A;
+			productRefGroup = DF3177231AFF47B800BF564A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DF3177211AFF47B800BF564A /* tabelaParanaense */,
+				DF3177361AFF47B800BF564A /* tabelaParanaenseTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DF3177201AFF47B800BF564A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DF31776B1AFF69BC00BF564A /* parana.png in Resources */,
+				DF31776A1AFF69BC00BF564A /* operario.png in Resources */,
+				DF31772D1AFF47B800BF564A /* Main.storyboard in Resources */,
+				DF3177681AFF69BC00BF564A /* maringa.png in Resources */,
+				DF31774F1AFF4A3C00BF564A /* Colocação.txt in Resources */,
+				DF3177641AFF69BC00BF564A /* coritiba.png in Resources */,
+				DF3177651AFF69BC00BF564A /* fozdoiguacu.png in Resources */,
+				DF3177631AFF69BC00BF564A /* cascavel.png in Resources */,
+				DF11CE941B0147C200266961 /* Images.xcassets in Resources */,
+				DF3177671AFF69BC00BF564A /* londrina.png in Resources */,
+				DFF0E5B51B012A2800C05AC6 /* Escalação Completa.txt in Resources */,
+				DF31776D1AFF69BC00BF564A /* riobranco.png in Resources */,
+				DF3177661AFF69BC00BF564A /* jmalucelli.png in Resources */,
+				DF31776C1AFF69BC00BF564A /* prudentopolis.png in Resources */,
+				DF3177621AFF69BC00BF564A /* atleticopr.png in Resources */,
+				DF31774B1AFF4A0F00BF564A /* Escalação.txt in Resources */,
+				DF3177691AFF69BC00BF564A /* nacional.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DF3177351AFF47B800BF564A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DF31771E1AFF47B800BF564A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DF3177551AFF5BE500BF564A /* tabelaTableViewCell.swift in Sources */,
+				DF3177531AFF544300BF564A /* tabelaTableViewController.swift in Sources */,
+				DF3177721AFF6EC500BF564A /* escalacaoTableViewController.swift in Sources */,
+				DF8971A11B4AC8E600652FC7 /* tabelaItem.swift in Sources */,
+				DF2E0F9E1B475F1500C0BDA8 /* tabelaParanaense.xcdatamodeld in Sources */,
+				DF3177701AFF6EB200BF564A /* escalacaoTableViewCell.swift in Sources */,
+				DF3177281AFF47B800BF564A /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DF3177331AFF47B800BF564A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DF31773E1AFF47B800BF564A /* tabelaParanaenseTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		DF3177391AFF47B800BF564A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DF3177211AFF47B800BF564A /* tabelaParanaense */;
+			targetProxy = DF3177381AFF47B800BF564A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		DF31772B1AFF47B800BF564A /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DF31772C1AFF47B800BF564A /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		DF31773F1AFF47B800BF564A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		DF3177401AFF47B800BF564A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DF3177421AFF47B800BF564A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				INFOPLIST_FILE = tabelaParanaense/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Fernando-Cani.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		DF3177431AFF47B800BF564A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				INFOPLIST_FILE = tabelaParanaense/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Fernando-Cani.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		DF3177451AFF47B800BF564A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = tabelaParanaenseTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Fernando-Cani.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/tabelaParanaense.app/tabelaParanaense";
+			};
+			name = Debug;
+		};
+		DF3177461AFF47B800BF564A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = tabelaParanaenseTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Fernando-Cani.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/tabelaParanaense.app/tabelaParanaense";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DF31771D1AFF47B800BF564A /* Build configuration list for PBXProject "tabelaParanaense" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DF31773F1AFF47B800BF564A /* Debug */,
+				DF3177401AFF47B800BF564A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DF3177411AFF47B800BF564A /* Build configuration list for PBXNativeTarget "tabelaParanaense" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DF3177421AFF47B800BF564A /* Debug */,
+				DF3177431AFF47B800BF564A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DF3177441AFF47B800BF564A /* Build configuration list for PBXNativeTarget "tabelaParanaenseTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DF3177451AFF47B800BF564A /* Debug */,
+				DF3177461AFF47B800BF564A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		DF2E0F9C1B475F1500C0BDA8 /* tabelaParanaense.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				DF2E0F9D1B475F1500C0BDA8 /* tabelaParanaense.xcdatamodel */,
+			);
+			currentVersion = DF2E0F9D1B475F1500C0BDA8 /* tabelaParanaense.xcdatamodel */;
+			path = tabelaParanaense.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = DF31771A1AFF47B800BF564A /* Project object */;
+}
