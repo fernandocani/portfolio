@@ -1,0 +1,14 @@
+{
+    "id": 0,
+    "level": 8,
+    "name": "Level 8",
+    "description": "Description 8",
+    "thumbImage": "level3.png",
+    "backgroundImage": "level3.png",
+    "time": 5.0,
+    "initVector":[-105, 100],
+    "walls": [
+              [[0.1, 0.5] , [0.1, 0.5], [0.1, 0.5]],
+              [[0.1, 0.5] , [0.1, 0.5], [0.1, 0.5]]
+              ]
+}
